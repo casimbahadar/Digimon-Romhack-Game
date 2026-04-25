@@ -34471,5 +34471,6828 @@
       "spd": 123
     },
     "catch_rate": 30
+  },
+  {
+    "name": "Puroromon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "description": "A tiny toxic Baby Digimon.",
+    "id": 841,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "poison_needle"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "tackle"
+      }
+    ],
+    "base_stats": {
+      "hp": 58,
+      "atk": 57,
+      "def": 59,
+      "sp_atk": 56,
+      "sp_def": 62,
+      "spd": 51
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Scumon",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "description": "A pile of filth that somehow became a Digimon.",
+    "id": 842,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "poison_needle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "infection_breath"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 89,
+      "atk": 95,
+      "def": 95,
+      "sp_atk": 102,
+      "sp_def": 94,
+      "spd": 93
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Tyutyumon",
+    "stage": "Rookie",
+    "attribute": "Virus",
+    "types": [
+      "Normal",
+      "Dark"
+    ],
+    "description": "A rat-like Digimon that scavenges data.",
+    "id": 843,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "shadow_wing"
+      }
+    ],
+    "base_stats": {
+      "hp": 74,
+      "atk": 74,
+      "def": 61,
+      "sp_atk": 67,
+      "sp_def": 74,
+      "spd": 69
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Chibomon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "Veemon's in-training form.",
+    "id": 844,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 58,
+      "atk": 68,
+      "def": 58,
+      "sp_atk": 56,
+      "sp_def": 59,
+      "spd": 64
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Leafmon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Bug",
+      "Normal"
+    ],
+    "description": "Wormmon's in-training form.",
+    "id": 845,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "stinger"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "tackle"
+      }
+    ],
+    "base_stats": {
+      "hp": 30,
+      "atk": 51,
+      "def": 32,
+      "sp_atk": 39,
+      "sp_def": 28,
+      "spd": 55
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Chicomon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "A tiny Baby Digimon, Agumon's older fresh form.",
+    "id": 846,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 34,
+      "atk": 50,
+      "def": 40,
+      "sp_atk": 40,
+      "sp_def": 37,
+      "spd": 40
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Bombmon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "description": "A volatile spherical Baby Digimon.",
+    "id": 847,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "flame_inferno"
+      }
+    ],
+    "base_stats": {
+      "hp": 48,
+      "atk": 54,
+      "def": 45,
+      "sp_atk": 61,
+      "sp_def": 41,
+      "spd": 48
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Relemon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Normal"
+    ],
+    "description": "A spherical light Baby Digimon.",
+    "id": 848,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "seven_heavens"
+      }
+    ],
+    "base_stats": {
+      "hp": 50,
+      "atk": 40,
+      "def": 44,
+      "sp_atk": 58,
+      "sp_def": 62,
+      "spd": 52
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Nyokimon",
+    "stage": "Baby",
+    "attribute": "Data",
+    "types": [
+      "Plant",
+      "Normal"
+    ],
+    "description": "A sprouting plant Baby Digimon.",
+    "id": 849,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "poison_ivy"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "solar_blast"
+      }
+    ],
+    "base_stats": {
+      "hp": 45,
+      "atk": 25,
+      "def": 45,
+      "sp_atk": 44,
+      "sp_def": 40,
+      "spd": 25
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Zerimon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "description": "Terriermon's in-training form.",
+    "id": 850,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "thunder_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 47,
+      "atk": 46,
+      "def": 48,
+      "sp_atk": 65,
+      "sp_def": 52,
+      "spd": 56
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Gummymon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Ice",
+      "Normal"
+    ],
+    "description": "Terriermon's other in-training form.",
+    "id": 851,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 54,
+      "atk": 52,
+      "def": 60,
+      "sp_atk": 64,
+      "sp_def": 59,
+      "spd": 53
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Kokomon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Ice",
+      "Dark"
+    ],
+    "description": "Lopmon's in-training form.",
+    "id": 852,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "night_raid"
+      }
+    ],
+    "base_stats": {
+      "hp": 49,
+      "atk": 55,
+      "def": 61,
+      "sp_atk": 66,
+      "sp_def": 59,
+      "spd": 53
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Viximon",
+    "stage": "Baby",
+    "attribute": "Data",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Renamon's in-training form, a small fox.",
+    "id": 853,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "nightmare_syndrome"
+      }
+    ],
+    "base_stats": {
+      "hp": 46,
+      "atk": 51,
+      "def": 42,
+      "sp_atk": 57,
+      "sp_def": 38,
+      "spd": 54
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Gigimon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "Guilmon's in-training form, energetic and red.",
+    "id": 854,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "flame_inferno"
+      }
+    ],
+    "base_stats": {
+      "hp": 46,
+      "atk": 59,
+      "def": 44,
+      "sp_atk": 60,
+      "sp_def": 43,
+      "spd": 55
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Pipimon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Impmon's in-training form.",
+    "id": 855,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "nightmare_syndrome"
+      }
+    ],
+    "base_stats": {
+      "hp": 41,
+      "atk": 44,
+      "def": 42,
+      "sp_atk": 55,
+      "sp_def": 33,
+      "spd": 48
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Yaamon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Impmon's other in-training form.",
+    "id": 856,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "nightmare_syndrome"
+      }
+    ],
+    "base_stats": {
+      "hp": 39,
+      "atk": 49,
+      "def": 31,
+      "sp_atk": 55,
+      "sp_def": 33,
+      "spd": 50
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Dodomon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "description": "Ryudamon's in-training form.",
+    "id": 857,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "metal_smash"
+      }
+    ],
+    "base_stats": {
+      "hp": 55,
+      "atk": 61,
+      "def": 60,
+      "sp_atk": 53,
+      "sp_def": 52,
+      "spd": 57
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Tsumemon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Bug"
+    ],
+    "description": "Keramon's in-training form, a data-eating creature.",
+    "id": 858,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "nightmare_syndrome"
+      }
+    ],
+    "base_stats": {
+      "hp": 54,
+      "atk": 52,
+      "def": 46,
+      "sp_atk": 58,
+      "sp_def": 47,
+      "spd": 66
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Kuramon",
+    "stage": "Baby",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Bug"
+    ],
+    "description": "Diaboromon's Baby stage, appearing online.",
+    "id": 859,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "nightmare_syndrome"
+      }
+    ],
+    "base_stats": {
+      "hp": 51,
+      "atk": 54,
+      "def": 44,
+      "sp_atk": 68,
+      "sp_def": 52,
+      "spd": 58
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Paomon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Normal"
+    ],
+    "description": "Ophanimon's Baby stage.",
+    "id": 860,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "seven_heavens"
+      }
+    ],
+    "base_stats": {
+      "hp": 36,
+      "atk": 39,
+      "def": 35,
+      "sp_atk": 45,
+      "sp_def": 52,
+      "spd": 39
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Snowbotamon",
+    "stage": "Baby",
+    "attribute": "Vaccine",
+    "types": [
+      "Ice",
+      "Normal"
+    ],
+    "description": "Cherubimon's Baby stage.",
+    "id": 861,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 51,
+      "atk": 54,
+      "def": 49,
+      "sp_atk": 54,
+      "sp_def": 51,
+      "spd": 41
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Fefemon",
+    "stage": "Baby",
+    "attribute": "Data",
+    "types": [
+      "Normal"
+    ],
+    "description": "A tiny fairy-like Baby Digimon.",
+    "id": 862,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 5,
+        "move_id": "data_burst"
+      }
+    ],
+    "base_stats": {
+      "hp": 56,
+      "atk": 63,
+      "def": 56,
+      "sp_atk": 49,
+      "sp_def": 55,
+      "spd": 50
+    },
+    "catch_rate": 220
+  },
+  {
+    "name": "Numemon X",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "description": "Numemon enhanced with the X-Antibody.",
+    "id": 863,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "poison_needle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "infection_breath"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 82,
+      "atk": 86,
+      "def": 89,
+      "sp_atk": 93,
+      "sp_def": 92,
+      "spd": 82
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Sukamon X",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "description": "Sukamon enhanced with the X-Antibody.",
+    "id": 864,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "poison_needle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "infection_breath"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 76,
+      "atk": 69,
+      "def": 79,
+      "sp_atk": 84,
+      "sp_def": 77,
+      "spd": 71
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Raremon X",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "description": "Raremon enhanced with the X-Antibody.",
+    "id": 865,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "poison_needle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "marching_fishes"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hydro_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 77,
+      "sp_atk": 84,
+      "sp_def": 87,
+      "spd": 72
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Etemon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Etemon enhanced with the X-Antibody.",
+    "id": 866,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 110,
+      "atk": 117,
+      "def": 104,
+      "sp_atk": 121,
+      "sp_def": 109,
+      "spd": 119
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "MetalEtemon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "description": "MetalEtemon enhanced with the X-Antibody.",
+    "id": 867,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 113,
+      "atk": 115,
+      "def": 103,
+      "sp_atk": 116,
+      "sp_def": 107,
+      "spd": 121
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Vademon X",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Vademon enhanced with the X-Antibody.",
+    "id": 868,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 74,
+      "atk": 82,
+      "def": 75,
+      "sp_atk": 90,
+      "sp_def": 67,
+      "spd": 83
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Digitamamon X",
+    "stage": "Ultimate",
+    "attribute": "Data",
+    "types": [
+      "Normal",
+      "Dark"
+    ],
+    "description": "Digitamamon enhanced with the X-Antibody.",
+    "id": 869,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "night_raid"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 108,
+      "atk": 104,
+      "def": 96,
+      "sp_atk": 102,
+      "sp_def": 101,
+      "spd": 100
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Piximon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Normal"
+    ],
+    "description": "Piximon enhanced with the X-Antibody.",
+    "id": 870,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 94,
+      "atk": 89,
+      "def": 87,
+      "sp_atk": 102,
+      "sp_def": 101,
+      "spd": 96
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Andromon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Steel",
+      "Normal"
+    ],
+    "description": "Andromon enhanced with the X-Antibody.",
+    "id": 871,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "atomic_blaster"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 104,
+      "atk": 97,
+      "def": 113,
+      "sp_atk": 87,
+      "sp_def": 106,
+      "spd": 85
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "HiAndromon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Steel",
+      "Holy"
+    ],
+    "description": "HiAndromon enhanced with the X-Antibody.",
+    "id": 872,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 142,
+      "atk": 137,
+      "def": 151,
+      "sp_atk": 131,
+      "sp_def": 147,
+      "spd": 130
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Giromon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Steel",
+      "Dark"
+    ],
+    "description": "Giromon enhanced with the X-Antibody.",
+    "id": 873,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 99,
+      "atk": 98,
+      "def": 103,
+      "sp_atk": 89,
+      "sp_def": 99,
+      "spd": 79
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "SkullGreymon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "SkullGreymon enhanced with the X-Antibody.",
+    "id": 874,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 98,
+      "atk": 106,
+      "def": 96,
+      "sp_atk": 106,
+      "sp_def": 92,
+      "spd": 108
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "SkullSatamon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "description": "SkullSatamon enhanced with the X-Antibody.",
+    "id": 875,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infection_breath"
+      }
+    ],
+    "base_stats": {
+      "hp": 100,
+      "atk": 106,
+      "def": 97,
+      "sp_atk": 115,
+      "sp_def": 94,
+      "spd": 115
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "LadyDevimon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "description": "LadyDevimon enhanced with the X-Antibody.",
+    "id": 876,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "aerial_dive"
+      }
+    ],
+    "base_stats": {
+      "hp": 102,
+      "atk": 111,
+      "def": 104,
+      "sp_atk": 118,
+      "sp_def": 97,
+      "spd": 113
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "MarineDevimon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Water"
+    ],
+    "description": "MarineDevimon enhanced with the X-Antibody.",
+    "id": 877,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hydro_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 93,
+      "atk": 94,
+      "def": 89,
+      "sp_atk": 101,
+      "sp_def": 91,
+      "spd": 106
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "SkullMeramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "description": "SkullMeramon enhanced with the X-Antibody.",
+    "id": 878,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "crimson_flame"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 113,
+      "atk": 124,
+      "def": 104,
+      "sp_atk": 120,
+      "sp_def": 106,
+      "spd": 116
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Swanmon",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "description": "An elegant swan Digimon of grace and beauty.",
+    "id": 879,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "hydro_cannon"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "aerial_dive"
+      }
+    ],
+    "base_stats": {
+      "hp": 75,
+      "atk": 67,
+      "def": 69,
+      "sp_atk": 67,
+      "sp_def": 70,
+      "spd": 64
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Prairiemon",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Electric"
+    ],
+    "description": "A prairie dog Digimon with electric attacks.",
+    "id": 880,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "electro_bolts"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 69,
+      "atk": 72,
+      "def": 73,
+      "sp_atk": 72,
+      "sp_def": 71,
+      "spd": 72
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Rabbitmon",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Ice"
+    ],
+    "description": "A fast rabbit Digimon with razor sharp ears.",
+    "id": 881,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "cold_breath"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 91,
+      "atk": 88,
+      "def": 88,
+      "sp_atk": 91,
+      "sp_def": 88,
+      "spd": 91
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Rhinomon",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Steel"
+    ],
+    "description": "A rhinoceros Digimon with an armored body.",
+    "id": 882,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "metal_smash"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 75,
+      "atk": 70,
+      "def": 62,
+      "sp_atk": 70,
+      "sp_def": 75,
+      "spd": 68
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Elephantmon",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Steel"
+    ],
+    "description": "A large elephant Digimon of tremendous power.",
+    "id": 883,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "metal_smash"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 103,
+      "atk": 104,
+      "def": 102,
+      "sp_atk": 106,
+      "sp_def": 110,
+      "spd": 98
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "WaruSeadramon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "description": "A dark sea dragon more powerful than Seadramon.",
+    "id": 884,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "night_raid"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 121,
+      "atk": 107,
+      "def": 118,
+      "sp_atk": 113,
+      "sp_def": 120,
+      "spd": 114
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Caturamon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "A dog deva Digimon serving as a messenger.",
+    "id": 885,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 97,
+      "atk": 96,
+      "def": 90,
+      "sp_atk": 107,
+      "sp_def": 87,
+      "spd": 106
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Jyukenmon",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Fighting",
+      "Normal"
+    ],
+    "description": "A martial arts master Digimon of great discipline.",
+    "id": 886,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "rapid_kick"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "crushing_blow"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 99,
+      "atk": 109,
+      "def": 92,
+      "sp_atk": 82,
+      "sp_def": 89,
+      "spd": 100
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Pandamon",
+    "stage": "Ultimate",
+    "attribute": "Data",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "A panda Digimon with unexpected fighting power.",
+    "id": 887,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 101,
+      "atk": 107,
+      "def": 93,
+      "sp_atk": 108,
+      "sp_def": 95,
+      "spd": 114
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Pajramon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "A sheep deva Digimon with wool-based attacks.",
+    "id": 888,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 88,
+      "atk": 96,
+      "def": 84,
+      "sp_atk": 99,
+      "sp_def": 83,
+      "spd": 102
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Antylamon (Good)",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Ice"
+    ],
+    "description": "The rabbit deva in its good, true form.",
+    "id": 889,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 109,
+      "atk": 98,
+      "def": 109,
+      "sp_atk": 111,
+      "sp_def": 112,
+      "spd": 110
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Dokamon",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
+    "description": "An App Monster with punching attacks.",
+    "id": 890,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "bone_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 45,
+      "sp_atk": 49,
+      "sp_def": 46,
+      "spd": 47
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Musimon",
+    "stage": "Rookie",
+    "attribute": "Data",
+    "types": [
+      "Normal",
+      "Electric"
+    ],
+    "description": "A music App Monster Digimon.",
+    "id": 891,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "plasma_sphere"
+      }
+    ],
+    "base_stats": {
+      "hp": 71,
+      "atk": 69,
+      "def": 68,
+      "sp_atk": 63,
+      "sp_def": 68,
+      "spd": 60
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Hackmon (AppMon)",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Dark"
+    ],
+    "description": "A hacking App Monster.",
+    "id": 892,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "shadow_wing"
+      }
+    ],
+    "base_stats": {
+      "hp": 56,
+      "atk": 62,
+      "def": 50,
+      "sp_atk": 54,
+      "sp_def": 58,
+      "spd": 50
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Agumon (AppMon)",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "description": "Agumon as an App Monster variant.",
+    "id": 893,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "magma_blast"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "scratch"
+      }
+    ],
+    "base_stats": {
+      "hp": 60,
+      "atk": 69,
+      "def": 61,
+      "sp_atk": 71,
+      "sp_def": 58,
+      "spd": 71
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Mienumon",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "An invisible App Monster Digimon.",
+    "id": 894,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 81,
+      "atk": 83,
+      "def": 79,
+      "sp_atk": 89,
+      "sp_def": 72,
+      "spd": 84
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Airdramon X",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "description": "Airdramon enhanced with the X-Antibody.",
+    "id": 895,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "wing_gust"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "aerial_dive"
+      }
+    ],
+    "base_stats": {
+      "hp": 80,
+      "atk": 96,
+      "def": 88,
+      "sp_atk": 93,
+      "sp_def": 83,
+      "spd": 88
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Seadramon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "description": "Seadramon enhanced with the X-Antibody.",
+    "id": 896,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "hydro_cannon"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 80,
+      "atk": 67,
+      "def": 73,
+      "sp_atk": 76,
+      "sp_def": 81,
+      "spd": 76
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "MegaSeadramon X",
+    "stage": "Ultimate",
+    "attribute": "Data",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "description": "MegaSeadramon enhanced with the X-Antibody.",
+    "id": 897,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "hydro_cannon"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 86,
+      "atk": 85,
+      "def": 92,
+      "sp_atk": 90,
+      "sp_def": 92,
+      "spd": 82
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Gigadramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Gigadramon enhanced with the X-Antibody.",
+    "id": 898,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 95,
+      "atk": 99,
+      "def": 93,
+      "sp_atk": 103,
+      "sp_def": 95,
+      "spd": 106
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Megadramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Megadramon enhanced with the X-Antibody.",
+    "id": 899,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 107,
+      "atk": 111,
+      "def": 109,
+      "sp_atk": 118,
+      "sp_def": 105,
+      "spd": 116
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "GranDracmon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "GranDracmon enhanced with the X-Antibody.",
+    "id": 900,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 114,
+      "atk": 115,
+      "def": 114,
+      "sp_atk": 120,
+      "sp_def": 107,
+      "spd": 124
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Gulfmon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Gulfmon enhanced with the X-Antibody.",
+    "id": 901,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 132,
+      "atk": 131,
+      "def": 118,
+      "sp_atk": 141,
+      "sp_def": 119,
+      "spd": 138
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Agumon (Classic 2)",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "Another classic variant of Agumon.",
+    "id": 902,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "magma_blast"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "dragon_kick"
+      }
+    ],
+    "base_stats": {
+      "hp": 58,
+      "atk": 68,
+      "def": 49,
+      "sp_atk": 65,
+      "sp_def": 44,
+      "spd": 62
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Tapirmon",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Normal"
+    ],
+    "description": "A tapir Digimon that eats nightmares.",
+    "id": 903,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 71,
+      "atk": 66,
+      "def": 62,
+      "sp_atk": 75,
+      "sp_def": 78,
+      "spd": 63
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Bakemon X",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Bakemon enhanced with the X-Antibody.",
+    "id": 904,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 91,
+      "atk": 91,
+      "def": 85,
+      "sp_atk": 98,
+      "sp_def": 86,
+      "spd": 92
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Phantomon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "description": "Phantomon enhanced with the X-Antibody.",
+    "id": 905,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "aerial_dive"
+      }
+    ],
+    "base_stats": {
+      "hp": 106,
+      "atk": 111,
+      "def": 104,
+      "sp_atk": 118,
+      "sp_def": 105,
+      "spd": 111
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Cerberumon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "description": "Cerberumon enhanced with the X-Antibody.",
+    "id": 906,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "crimson_flame"
+      }
+    ],
+    "base_stats": {
+      "hp": 84,
+      "atk": 94,
+      "def": 80,
+      "sp_atk": 91,
+      "sp_def": 79,
+      "spd": 94
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Plutomon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "description": "Plutomon enhanced with the X-Antibody.",
+    "id": 907,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 120,
+      "atk": 127,
+      "def": 119,
+      "sp_atk": 134,
+      "sp_def": 122,
+      "spd": 132
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Wisemon X",
+    "stage": "Ultimate",
+    "attribute": "Data",
+    "types": [
+      "Dark",
+      "Holy"
+    ],
+    "description": "Wisemon enhanced with the X-Antibody.",
+    "id": 908,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 100,
+      "atk": 111,
+      "def": 97,
+      "sp_atk": 110,
+      "sp_def": 99,
+      "spd": 120
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Sorcermon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Holy",
+      "Ice"
+    ],
+    "description": "Sorcermon enhanced with the X-Antibody.",
+    "id": 909,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 76,
+      "atk": 67,
+      "def": 76,
+      "sp_atk": 79,
+      "sp_def": 79,
+      "spd": 66
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Golemon X",
+    "stage": "Champion",
+    "attribute": "Virus",
+    "types": [
+      "Normal",
+      "Steel"
+    ],
+    "description": "Golemon enhanced with the X-Antibody.",
+    "id": 910,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "metal_smash"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 93,
+      "atk": 91,
+      "def": 89,
+      "sp_atk": 80,
+      "sp_def": 93,
+      "spd": 89
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Meteormon X",
+    "stage": "Ultimate",
+    "attribute": "Data",
+    "types": [
+      "Normal",
+      "Steel"
+    ],
+    "description": "Meteormon enhanced with the X-Antibody.",
+    "id": 911,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "metal_smash"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 105,
+      "atk": 105,
+      "def": 96,
+      "sp_atk": 96,
+      "sp_def": 107,
+      "spd": 97
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Starmons X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Normal",
+      "Electric"
+    ],
+    "description": "Starmons enhanced with the X-Antibody.",
+    "id": 912,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "electro_bolts"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 85,
+      "atk": 84,
+      "def": 84,
+      "sp_atk": 82,
+      "sp_def": 91,
+      "spd": 78
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Sparrowmon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "description": "Sparrowmon enhanced with the X-Antibody.",
+    "id": 913,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "thunder_strike"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "aerial_dive"
+      }
+    ],
+    "base_stats": {
+      "hp": 58,
+      "atk": 70,
+      "def": 67,
+      "sp_atk": 83,
+      "sp_def": 68,
+      "spd": 78
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Ballistamon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Steel",
+      "Normal"
+    ],
+    "description": "Ballistamon enhanced with the X-Antibody.",
+    "id": 914,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "atomic_blaster"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 70,
+      "atk": 67,
+      "def": 85,
+      "sp_atk": 58,
+      "sp_def": 76,
+      "spd": 53
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Dorulumon X",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Normal",
+      "Steel"
+    ],
+    "description": "Dorulumon enhanced with the X-Antibody.",
+    "id": 915,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "tackle"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "metal_smash"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 74,
+      "atk": 75,
+      "def": 72,
+      "sp_atk": 65,
+      "sp_def": 74,
+      "spd": 71
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Shoutmon X",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "description": "Shoutmon enhanced with the X-Antibody.",
+    "id": 916,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "magma_blast"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "scratch"
+      }
+    ],
+    "base_stats": {
+      "hp": 70,
+      "atk": 81,
+      "def": 59,
+      "sp_atk": 79,
+      "sp_def": 57,
+      "spd": 74
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "OmniShoutmon X2",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Holy"
+    ],
+    "description": "OmniShoutmon's evolved X-Antibody form.",
+    "id": 917,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 136,
+      "atk": 139,
+      "def": 123,
+      "sp_atk": 139,
+      "sp_def": 133,
+      "spd": 142
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "ZekeGreymon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "ZekeGreymon enhanced with the X-Antibody.",
+    "id": 918,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 125,
+      "atk": 136,
+      "def": 124,
+      "sp_atk": 134,
+      "sp_def": 125,
+      "spd": 129
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Arresterdramon X",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "description": "Arresterdramon enhanced with the X-Antibody.",
+    "id": 919,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 89,
+      "atk": 95,
+      "def": 90,
+      "sp_atk": 89,
+      "sp_def": 89,
+      "spd": 89
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Gumdramon X",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "Gumdramon enhanced with the X-Antibody.",
+    "id": 920,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "dragon_crusher"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "quick_attack"
+      }
+    ],
+    "base_stats": {
+      "hp": 64,
+      "atk": 75,
+      "def": 74,
+      "sp_atk": 66,
+      "sp_def": 64,
+      "spd": 66
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Tuwarmon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "description": "Tuwarmon enhanced with the X-Antibody.",
+    "id": 921,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 114,
+      "atk": 119,
+      "def": 110,
+      "sp_atk": 120,
+      "sp_def": 113,
+      "spd": 121
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "AxeKnightmon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "description": "AxeKnightmon enhanced with the X-Antibody.",
+    "id": 922,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 106,
+      "atk": 110,
+      "def": 96,
+      "sp_atk": 111,
+      "sp_def": 94,
+      "spd": 111
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "SkullKnightmon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "description": "SkullKnightmon enhanced with the X-Antibody.",
+    "id": 923,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 113,
+      "atk": 113,
+      "def": 110,
+      "sp_atk": 121,
+      "sp_def": 109,
+      "spd": 125
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Gammamon X",
+    "stage": "Rookie",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Gammamon enhanced with the X-Antibody.",
+    "id": 924,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "divine_tornado"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "dragon_kick"
+      }
+    ],
+    "base_stats": {
+      "hp": 63,
+      "atk": 60,
+      "def": 59,
+      "sp_atk": 74,
+      "sp_def": 78,
+      "spd": 62
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Canoweissmon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Canoweissmon enhanced with the X-Antibody.",
+    "id": 925,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 109,
+      "atk": 103,
+      "def": 112,
+      "sp_atk": 124,
+      "sp_def": 118,
+      "spd": 112
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Regulumon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Fighting"
+    ],
+    "description": "Regulumon enhanced with the X-Antibody.",
+    "id": 926,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "heavens_gate"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 123,
+      "atk": 125,
+      "def": 126,
+      "sp_atk": 133,
+      "sp_def": 140,
+      "spd": 121
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Angoramon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Angoramon enhanced with the X-Antibody.",
+    "id": 927,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 82,
+      "atk": 86,
+      "def": 76,
+      "sp_atk": 93,
+      "sp_def": 79,
+      "spd": 96
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Jellymon X",
+    "stage": "Rookie",
+    "attribute": "Data",
+    "types": [
+      "Electric",
+      "Water"
+    ],
+    "description": "Jellymon enhanced with the X-Antibody.",
+    "id": 928,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "lightning_blade"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "water_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 50,
+      "atk": 57,
+      "def": 46,
+      "sp_atk": 61,
+      "sp_def": 56,
+      "spd": 62
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Amphimon X",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "description": "Amphimon enhanced with the X-Antibody.",
+    "id": 929,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "hydro_cannon"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 120,
+      "atk": 108,
+      "def": 116,
+      "sp_atk": 113,
+      "sp_def": 121,
+      "spd": 114
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Eosmon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Electric"
+    ],
+    "description": "Eosmon enhanced with the X-Antibody.",
+    "id": 930,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 129,
+      "atk": 140,
+      "def": 127,
+      "sp_atk": 147,
+      "sp_def": 127,
+      "spd": 147
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Meicoomon X",
+    "stage": "Rookie",
+    "attribute": "Unknown",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Meicoomon enhanced with the X-Antibody.",
+    "id": 931,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "crimson_lightning"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "scratch"
+      }
+    ],
+    "base_stats": {
+      "hp": 71,
+      "atk": 76,
+      "def": 70,
+      "sp_atk": 83,
+      "sp_def": 69,
+      "spd": 82
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Kokuwamon",
+    "stage": "Rookie",
+    "attribute": "Data",
+    "types": [
+      "Electric",
+      "Bug"
+    ],
+    "description": "A small stag beetle Digimon with electric attacks.",
+    "id": 932,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "lightning_blade"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "cocoon_armor"
+      }
+    ],
+    "base_stats": {
+      "hp": 52,
+      "atk": 66,
+      "def": 59,
+      "sp_atk": 76,
+      "sp_def": 64,
+      "spd": 72
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Stingmon (X)",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "description": "Stingmon enhanced with the X-Antibody.",
+    "id": 933,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "stinger"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "power_punch"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 80,
+      "atk": 88,
+      "def": 84,
+      "sp_atk": 84,
+      "sp_def": 71,
+      "spd": 101
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "GrandKuwagamon (X)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Bug",
+      "Dark"
+    ],
+    "description": "GrandKuwagamon with the X-Antibody.",
+    "id": 934,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "stinger"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "night_raid"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 122,
+      "atk": 134,
+      "def": 124,
+      "sp_atk": 125,
+      "sp_def": 123,
+      "spd": 141
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Darcmon",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Fighting"
+    ],
+    "description": "A warrior nun Digimon of celestial power.",
+    "id": 935,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "heavens_gate"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 96,
+      "atk": 88,
+      "def": 92,
+      "sp_atk": 96,
+      "sp_def": 101,
+      "spd": 88
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Peckmon (Ultimate)",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Flying",
+      "Dark"
+    ],
+    "description": "An alternate Peckmon ultimate form.",
+    "id": 936,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "wing_gust"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "night_raid"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 85,
+      "atk": 91,
+      "def": 79,
+      "sp_atk": 98,
+      "sp_def": 87,
+      "spd": 100
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Karatenmon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "description": "A tengu warrior Digimon with dual fans.",
+    "id": 937,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "aerial_dive"
+      }
+    ],
+    "base_stats": {
+      "hp": 99,
+      "atk": 112,
+      "def": 93,
+      "sp_atk": 116,
+      "sp_def": 98,
+      "spd": 116
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Sinduramon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Electric",
+      "Bug"
+    ],
+    "description": "A rooster deva Digimon of electric power.",
+    "id": 938,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "thunder_strike"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "bug_rush"
+      }
+    ],
+    "base_stats": {
+      "hp": 96,
+      "atk": 99,
+      "def": 99,
+      "sp_atk": 112,
+      "sp_def": 104,
+      "spd": 106
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Vajramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "description": "Vajramon enhanced with the X-Antibody.",
+    "id": 939,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 110,
+      "atk": 116,
+      "def": 107,
+      "sp_atk": 122,
+      "sp_def": 109,
+      "spd": 120
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Vikaralamon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Vikaralamon enhanced with the X-Antibody.",
+    "id": 940,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 121,
+      "atk": 122,
+      "def": 113,
+      "sp_atk": 137,
+      "sp_def": 116,
+      "spd": 136
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Sinduramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Electric",
+      "Bug"
+    ],
+    "description": "Sinduramon enhanced with the X-Antibody.",
+    "id": 941,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "thunder_strike"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "bug_rush"
+      }
+    ],
+    "base_stats": {
+      "hp": 94,
+      "atk": 99,
+      "def": 92,
+      "sp_atk": 111,
+      "sp_def": 101,
+      "spd": 107
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Pajramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Pajramon enhanced with the X-Antibody.",
+    "id": 942,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 95,
+      "atk": 100,
+      "def": 96,
+      "sp_atk": 106,
+      "sp_def": 94,
+      "spd": 111
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Mihiramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Mihiramon enhanced with the X-Antibody.",
+    "id": 943,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 100,
+      "atk": 110,
+      "def": 94,
+      "sp_atk": 109,
+      "sp_def": 99,
+      "spd": 114
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Makuramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Makuramon enhanced with the X-Antibody.",
+    "id": 944,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 85,
+      "atk": 93,
+      "def": 83,
+      "sp_atk": 95,
+      "sp_def": 75,
+      "spd": 95
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Caturamon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Caturamon enhanced with the X-Antibody.",
+    "id": 945,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 98,
+      "atk": 108,
+      "def": 91,
+      "sp_atk": 106,
+      "sp_def": 91,
+      "spd": 105
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Indramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Indramon enhanced with the X-Antibody.",
+    "id": 946,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 91,
+      "atk": 90,
+      "def": 83,
+      "sp_atk": 95,
+      "sp_def": 81,
+      "spd": 93
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Kumbhiramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Kumbhiramon enhanced with the X-Antibody.",
+    "id": 947,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 90,
+      "atk": 96,
+      "def": 89,
+      "sp_atk": 97,
+      "sp_def": 83,
+      "spd": 103
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Majiramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Majiramon enhanced with the X-Antibody.",
+    "id": 948,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 101,
+      "atk": 101,
+      "def": 100,
+      "sp_atk": 107,
+      "sp_def": 92,
+      "spd": 115
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Chatsuramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "Chatsuramon enhanced with the X-Antibody.",
+    "id": 949,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 95,
+      "sp_atk": 105,
+      "sp_def": 89,
+      "spd": 109
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Sandiramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "description": "Sandiramon enhanced with the X-Antibody.",
+    "id": 950,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infection_breath"
+      }
+    ],
+    "base_stats": {
+      "hp": 89,
+      "atk": 97,
+      "def": 84,
+      "sp_atk": 103,
+      "sp_def": 81,
+      "spd": 101
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Antylamon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Ice",
+      "Dark"
+    ],
+    "description": "Antylamon enhanced with the X-Antibody.",
+    "id": 951,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "night_raid"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 106,
+      "atk": 108,
+      "def": 113,
+      "sp_atk": 118,
+      "sp_def": 110,
+      "spd": 105
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Beelzemon (Xros)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Beelzemon as seen in Xros Wars.",
+    "id": 952,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 112,
+      "atk": 107,
+      "def": 104,
+      "sp_atk": 115,
+      "sp_def": 97,
+      "spd": 114
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Baalmon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "description": "The ultimate form between Impmon and Beelzemon.",
+    "id": 953,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "crimson_flame"
+      }
+    ],
+    "base_stats": {
+      "hp": 83,
+      "atk": 91,
+      "def": 79,
+      "sp_atk": 96,
+      "sp_def": 78,
+      "spd": 91
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Astamon",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "description": "An alternate ultimate form of Impmon.",
+    "id": 954,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 94,
+      "atk": 90,
+      "def": 90,
+      "sp_atk": 97,
+      "sp_def": 88,
+      "spd": 99
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Belphemon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "description": "Belphemon enhanced with the X-Antibody.",
+    "id": 955,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "crimson_flame"
+      }
+    ],
+    "base_stats": {
+      "hp": 128,
+      "atk": 130,
+      "def": 125,
+      "sp_atk": 137,
+      "sp_def": 118,
+      "spd": 139
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Daemon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "description": "Daemon enhanced with the X-Antibody.",
+    "id": 956,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "crimson_flame"
+      }
+    ],
+    "base_stats": {
+      "hp": 122,
+      "atk": 131,
+      "def": 125,
+      "sp_atk": 137,
+      "sp_def": 125,
+      "spd": 131
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Infermon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Bug"
+    ],
+    "description": "Infermon enhanced with the X-Antibody.",
+    "id": 957,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "bug_rush"
+      }
+    ],
+    "base_stats": {
+      "hp": 96,
+      "atk": 102,
+      "def": 93,
+      "sp_atk": 109,
+      "sp_def": 95,
+      "spd": 112
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Armageddemon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Armageddemon enhanced with the X-Antibody.",
+    "id": 958,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 124,
+      "atk": 127,
+      "def": 113,
+      "sp_atk": 131,
+      "sp_def": 116,
+      "spd": 132
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Slayerdramon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "description": "Slayerdramon enhanced with the X-Antibody.",
+    "id": 959,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 128,
+      "atk": 136,
+      "def": 140,
+      "sp_atk": 136,
+      "sp_def": 131,
+      "spd": 133
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Groundramon X",
+    "stage": "Ultimate",
+    "attribute": "Virus",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "Groundramon enhanced with the X-Antibody.",
+    "id": 960,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "draco_meteor"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 100,
+      "atk": 104,
+      "def": 97,
+      "sp_atk": 101,
+      "sp_def": 100,
+      "spd": 103
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Coredramon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Dragon",
+      "Water"
+    ],
+    "description": "Coredramon enhanced with the X-Antibody.",
+    "id": 961,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "hydro_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 88,
+      "atk": 90,
+      "def": 86,
+      "sp_atk": 91,
+      "sp_def": 88,
+      "spd": 89
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Dracomon X",
+    "stage": "Rookie",
+    "attribute": "Data",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "Dracomon enhanced with the X-Antibody.",
+    "id": 962,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "dragon_crusher"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "quick_attack"
+      }
+    ],
+    "base_stats": {
+      "hp": 57,
+      "atk": 68,
+      "def": 63,
+      "sp_atk": 60,
+      "sp_def": 53,
+      "spd": 55
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Strikedramon X",
+    "stage": "Champion",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "description": "Strikedramon enhanced with the X-Antibody.",
+    "id": 963,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "rapid_kick"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 81,
+      "atk": 90,
+      "def": 84,
+      "sp_atk": 82,
+      "sp_def": 82,
+      "spd": 92
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "Cyberdramon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "description": "Cyberdramon enhanced with the X-Antibody.",
+    "id": 964,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 114,
+      "atk": 122,
+      "def": 119,
+      "sp_atk": 119,
+      "sp_def": 107,
+      "spd": 114
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Justimon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "description": "Justimon enhanced with the X-Antibody.",
+    "id": 965,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "rapid_kick"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 116,
+      "atk": 124,
+      "def": 121,
+      "sp_atk": 118,
+      "sp_def": 113,
+      "spd": 124
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "GinRyumon X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "description": "GinRyumon enhanced with the X-Antibody.",
+    "id": 966,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 66,
+      "atk": 81,
+      "def": 75,
+      "sp_atk": 73,
+      "sp_def": 66,
+      "spd": 73
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "HisyaRyumon X",
+    "stage": "Ultimate",
+    "attribute": "Data",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "description": "HisyaRyumon enhanced with the X-Antibody.",
+    "id": 967,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 97,
+      "atk": 109,
+      "def": 107,
+      "sp_atk": 109,
+      "sp_def": 97,
+      "spd": 109
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Ouryumon X",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "description": "Ouryumon enhanced with the X-Antibody.",
+    "id": 968,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "metal_fang"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 105,
+      "atk": 120,
+      "def": 116,
+      "sp_atk": 106,
+      "sp_def": 104,
+      "spd": 116
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Paildramon X",
+    "stage": "Ultimate",
+    "attribute": "Free",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "Paildramon enhanced with the X-Antibody.",
+    "id": 969,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "draco_meteor"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 102,
+      "atk": 110,
+      "def": 98,
+      "sp_atk": 101,
+      "sp_def": 93,
+      "spd": 107
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Silphymon X",
+    "stage": "Ultimate",
+    "attribute": "Free",
+    "types": [
+      "Flying",
+      "Holy"
+    ],
+    "description": "Silphymon enhanced with the X-Antibody.",
+    "id": 970,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "wing_gust"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 105,
+      "atk": 112,
+      "def": 102,
+      "sp_atk": 119,
+      "sp_def": 108,
+      "spd": 124
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Shakkoumon X",
+    "stage": "Ultimate",
+    "attribute": "Free",
+    "types": [
+      "Holy",
+      "Steel"
+    ],
+    "description": "Shakkoumon enhanced with the X-Antibody.",
+    "id": 971,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 91,
+      "atk": 87,
+      "def": 90,
+      "sp_atk": 99,
+      "sp_def": 99,
+      "spd": 90
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Imperialdramon (DM) X",
+    "stage": "Mega",
+    "attribute": "Free",
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "description": "Imperialdramon Dragon Mode with X-Antibody.",
+    "id": 972,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "draco_meteor"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "hyper_beam"
+      }
+    ],
+    "base_stats": {
+      "hp": 110,
+      "atk": 118,
+      "def": 110,
+      "sp_atk": 113,
+      "sp_def": 108,
+      "spd": 111
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Imperialdramon (FM) X",
+    "stage": "Mega",
+    "attribute": "Free",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "description": "Imperialdramon Fighter Mode with X-Antibody.",
+    "id": 973,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "rapid_kick"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "volcanic_strike"
+      }
+    ],
+    "base_stats": {
+      "hp": 113,
+      "atk": 114,
+      "def": 115,
+      "sp_atk": 113,
+      "sp_def": 108,
+      "spd": 118
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Imperialdramon (PM) X",
+    "stage": "Mega",
+    "attribute": "Free",
+    "types": [
+      "Dragon",
+      "Holy"
+    ],
+    "description": "Imperialdramon Paladin Mode with X-Antibody.",
+    "id": 974,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "holy_claw"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 124,
+      "atk": 135,
+      "def": 130,
+      "sp_atk": 130,
+      "sp_def": 116,
+      "spd": 127
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Omnimon (2020) X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "2020 Omnimon enhanced with the X-Antibody.",
+    "id": 975,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 126,
+      "atk": 131,
+      "def": 135,
+      "sp_atk": 144,
+      "sp_def": 146,
+      "spd": 126
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "EmperorGreymon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "EmperorGreymon enhanced with the X-Antibody.",
+    "id": 976,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 126,
+      "atk": 129,
+      "def": 111,
+      "sp_atk": 130,
+      "sp_def": 119,
+      "spd": 130
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "MagnaGarurumon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Steel"
+    ],
+    "description": "MagnaGarurumon enhanced with the X-Antibody.",
+    "id": 977,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 108,
+      "atk": 101,
+      "def": 102,
+      "sp_atk": 113,
+      "sp_def": 118,
+      "spd": 107
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Aldamon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Holy"
+    ],
+    "description": "Aldamon enhanced with the X-Antibody.",
+    "id": 978,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 105,
+      "atk": 120,
+      "def": 102,
+      "sp_atk": 122,
+      "sp_def": 105,
+      "spd": 112
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "BurningGreymon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "BurningGreymon enhanced with the X-Antibody.",
+    "id": 979,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 96,
+      "atk": 107,
+      "def": 90,
+      "sp_atk": 109,
+      "sp_def": 91,
+      "spd": 109
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "Beowolfmon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Ice"
+    ],
+    "description": "Beowolfmon enhanced with the X-Antibody.",
+    "id": 980,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 97,
+      "atk": 90,
+      "def": 96,
+      "sp_atk": 107,
+      "sp_def": 107,
+      "spd": 103
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "KendoGarurumon X",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Steel"
+    ],
+    "description": "KendoGarurumon enhanced with the X-Antibody.",
+    "id": 981,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 112,
+      "atk": 104,
+      "def": 111,
+      "sp_atk": 124,
+      "sp_def": 124,
+      "spd": 116
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "MagnaGarurumon (FM) X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Steel"
+    ],
+    "description": "MagnaGarurumon FM with the X-Antibody.",
+    "id": 982,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 128,
+      "atk": 127,
+      "def": 128,
+      "sp_atk": 144,
+      "sp_def": 141,
+      "spd": 128
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "AncientGreymon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "AncientGreymon enhanced with the X-Antibody.",
+    "id": 983,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 136,
+      "atk": 144,
+      "def": 131,
+      "sp_atk": 147,
+      "sp_def": 132,
+      "spd": 139
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "AncientGarurumon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Ice",
+      "Holy"
+    ],
+    "description": "AncientGarurumon enhanced with the X-Antibody.",
+    "id": 984,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 108,
+      "atk": 103,
+      "def": 107,
+      "sp_atk": 120,
+      "sp_def": 111,
+      "spd": 101
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Omnimon Alter-B X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Omnimon Alter-B enhanced with the X-Antibody.",
+    "id": 985,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 119,
+      "atk": 126,
+      "def": 111,
+      "sp_atk": 133,
+      "sp_def": 117,
+      "spd": 135
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Dynasmon X2",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Dragon",
+      "Holy"
+    ],
+    "description": "Dynasmon further enhanced with the X-Antibody.",
+    "id": 986,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dragon_breath"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "holy_claw"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 103,
+      "atk": 117,
+      "def": 109,
+      "sp_atk": 108,
+      "sp_def": 111,
+      "spd": 114
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Gankoomon X2",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fighting",
+      "Holy"
+    ],
+    "description": "Gankoomon further enhanced with the X-Antibody.",
+    "id": 987,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "rapid_kick"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 142,
+      "atk": 154,
+      "def": 137,
+      "sp_atk": 124,
+      "sp_def": 129,
+      "spd": 139
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "WarGreymon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "A black-armored version of WarGreymon.",
+    "id": 988,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "ultimate_charge"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 123,
+      "atk": 120,
+      "def": 118,
+      "sp_atk": 125,
+      "sp_def": 112,
+      "spd": 125
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "MetalGarurumon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "description": "A black-armored version of MetalGarurumon.",
+    "id": 989,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 102,
+      "atk": 109,
+      "def": 99,
+      "sp_atk": 116,
+      "sp_def": 105,
+      "spd": 110
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Omnimon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "A dark version of Omnimon from evil data.",
+    "id": 990,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 127,
+      "atk": 136,
+      "def": 126,
+      "sp_atk": 141,
+      "sp_def": 126,
+      "spd": 146
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Seraphimon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Electric"
+    ],
+    "description": "A corrupted black Seraphimon.",
+    "id": 991,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 111,
+      "atk": 119,
+      "def": 101,
+      "sp_atk": 118,
+      "sp_def": 103,
+      "spd": 116
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Ophanimon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Plant"
+    ],
+    "description": "A dark corrupted form of Ophanimon.",
+    "id": 992,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "leaf_storm"
+      }
+    ],
+    "base_stats": {
+      "hp": 112,
+      "atk": 112,
+      "def": 107,
+      "sp_atk": 121,
+      "sp_def": 111,
+      "spd": 122
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Cherubimon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Electric"
+    ],
+    "description": "Cherubimon fully given over to darkness.",
+    "id": 993,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "soul_crusher"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "lightning_spear"
+      }
+    ],
+    "base_stats": {
+      "hp": 99,
+      "atk": 105,
+      "def": 101,
+      "sp_atk": 113,
+      "sp_def": 102,
+      "spd": 117
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Dinotigemon",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "A powerful fire tiger dragon Mega Digimon.",
+    "id": 994,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 111,
+      "atk": 119,
+      "def": 108,
+      "sp_atk": 118,
+      "sp_def": 98,
+      "spd": 116
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Zhuqiaomon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Fire",
+      "Holy"
+    ],
+    "description": "Zhuqiaomon enhanced with the X-Antibody.",
+    "id": 995,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 110,
+      "atk": 126,
+      "def": 104,
+      "sp_atk": 122,
+      "sp_def": 105,
+      "spd": 112
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Baihumon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Ice",
+      "Holy"
+    ],
+    "description": "Baihumon enhanced with the X-Antibody.",
+    "id": 996,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 130,
+      "atk": 126,
+      "def": 129,
+      "sp_atk": 134,
+      "sp_def": 133,
+      "spd": 126
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Ebonwumon X",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Water",
+      "Holy"
+    ],
+    "description": "Ebonwumon enhanced with the X-Antibody.",
+    "id": 997,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "sacred_arrow"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 136,
+      "atk": 128,
+      "def": 133,
+      "sp_atk": 131,
+      "sp_def": 134,
+      "spd": 127
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Azulongmon X",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Electric",
+      "Holy"
+    ],
+    "description": "Azulongmon enhanced with the X-Antibody.",
+    "id": 998,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "super_shocker"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "heavens_gate"
+      }
+    ],
+    "base_stats": {
+      "hp": 107,
+      "atk": 114,
+      "def": 108,
+      "sp_atk": 122,
+      "sp_def": 107,
+      "spd": 118
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Fanglongmon X",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Fanglongmon enhanced with the X-Antibody.",
+    "id": 999,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 109,
+      "atk": 104,
+      "def": 108,
+      "sp_atk": 117,
+      "sp_def": 117,
+      "spd": 102
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Goddramon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Goddramon enhanced with the X-Antibody.",
+    "id": 1000,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 132,
+      "atk": 118,
+      "def": 128,
+      "sp_atk": 137,
+      "sp_def": 133,
+      "spd": 129
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Holydramon X",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Holydramon enhanced with the X-Antibody.",
+    "id": 1001,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 101,
+      "atk": 94,
+      "def": 106,
+      "sp_atk": 114,
+      "sp_def": 110,
+      "spd": 104
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Magnadramon (Black)",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "A dark corrupted Magnadramon.",
+    "id": 1002,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "roar"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 137,
+      "atk": 139,
+      "def": 126,
+      "sp_atk": 140,
+      "sp_def": 125,
+      "spd": 142
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Agumon (Silver Blue)",
+    "stage": "Rookie",
+    "attribute": "Data",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "description": "A rare silver-blue variant of Agumon.",
+    "id": 1003,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 7,
+        "move_id": "surf"
+      },
+      {
+        "learn_level": 16,
+        "move_id": "dragon_fire"
+      }
+    ],
+    "base_stats": {
+      "hp": 68,
+      "atk": 60,
+      "def": 63,
+      "sp_atk": 67,
+      "sp_def": 67,
+      "spd": 63
+    },
+    "catch_rate": 150
+  },
+  {
+    "name": "Greymon (Blue) X",
+    "stage": "Champion",
+    "attribute": "Data",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "description": "Blue Greymon enhanced with the X-Antibody.",
+    "id": 1004,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "bubble_blow"
+      },
+      {
+        "learn_level": 10,
+        "move_id": "fire_wall"
+      },
+      {
+        "learn_level": 22,
+        "move_id": "hydro_cannon"
+      },
+      {
+        "learn_level": 32,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 79,
+      "atk": 82,
+      "def": 86,
+      "sp_atk": 88,
+      "sp_def": 86,
+      "spd": 83
+    },
+    "catch_rate": 100
+  },
+  {
+    "name": "SkullGreymon (White)",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dark"
+    ],
+    "description": "A rare white SkullGreymon of unusual power.",
+    "id": 1005,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "growl"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "heavens_gate"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "soul_crusher"
+      }
+    ],
+    "base_stats": {
+      "hp": 101,
+      "atk": 98,
+      "def": 101,
+      "sp_atk": 114,
+      "sp_def": 115,
+      "spd": 99
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "ZeedMillenniummon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "ZeedMillenniummon enhanced with the X-Antibody.",
+    "id": 1006,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "barrier"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 117,
+      "atk": 125,
+      "def": 119,
+      "sp_atk": 127,
+      "sp_def": 115,
+      "spd": 136
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Millenniummon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Millenniummon enhanced with the X-Antibody.",
+    "id": 1007,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 106,
+      "atk": 104,
+      "def": 96,
+      "sp_atk": 109,
+      "sp_def": 95,
+      "spd": 115
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Huanglongmon X",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Huanglongmon enhanced with the X-Antibody.",
+    "id": 1008,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "digivolve_burst"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 135,
+      "atk": 128,
+      "def": 129,
+      "sp_atk": 139,
+      "sp_def": 138,
+      "spd": 138
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Magnamon (Xros)",
+    "stage": "Ultimate",
+    "attribute": "Vaccine",
+    "types": [
+      "Holy",
+      "Dragon"
+    ],
+    "description": "Magnamon as it appears in Digimon Xros Wars.",
+    "id": 1009,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 15,
+        "move_id": "quick_heal"
+      },
+      {
+        "learn_level": 30,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 45,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 85,
+      "atk": 87,
+      "def": 86,
+      "sp_atk": 103,
+      "sp_def": 102,
+      "spd": 87
+    },
+    "catch_rate": 60
+  },
+  {
+    "name": "KaiserGreymon",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "A legendary greymon-type Mega of supreme power.",
+    "id": 1010,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "double_team"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 118,
+      "atk": 121,
+      "def": 111,
+      "sp_atk": 126,
+      "sp_def": 111,
+      "spd": 117
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "MagnaGarurumon (Silver)",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Holy",
+      "Ice"
+    ],
+    "description": "A silver variant of MagnaGarurumon.",
+    "id": 1011,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "boom_bubble"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "taunt"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "seven_heavens"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "tundra_freeze"
+      }
+    ],
+    "base_stats": {
+      "hp": 122,
+      "atk": 113,
+      "def": 124,
+      "sp_atk": 130,
+      "sp_def": 138,
+      "spd": 125
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "VictoryGreymon",
+    "stage": "Mega",
+    "attribute": "Vaccine",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "description": "An alternate WarGreymon form from Digimon World DS.",
+    "id": 1012,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "pepper_flame"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "holy_heal"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "atomic_flame"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 118,
+      "atk": 128,
+      "def": 117,
+      "sp_atk": 129,
+      "sp_def": 120,
+      "spd": 121
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Z'd Garurumon",
+    "stage": "Mega",
+    "attribute": "Data",
+    "types": [
+      "Ice",
+      "Steel"
+    ],
+    "description": "An alternate MetalGarurumon form from Digimon World DS.",
+    "id": 1013,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "blue_blaster"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "chrome_digizoid"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "tundra_freeze"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "infinity_cannon"
+      }
+    ],
+    "base_stats": {
+      "hp": 130,
+      "atk": 128,
+      "def": 140,
+      "sp_atk": 145,
+      "sp_def": 131,
+      "spd": 127
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "ChaosGallantmon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "ChaosGallantmon enhanced with the X-Antibody.",
+    "id": 1014,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "cocoon_armor"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 127,
+      "atk": 135,
+      "def": 126,
+      "sp_atk": 137,
+      "sp_def": 128,
+      "spd": 143
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "Megidramon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "Megidramon enhanced with the X-Antibody.",
+    "id": 1015,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "root_bind"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 105,
+      "atk": 113,
+      "def": 104,
+      "sp_atk": 121,
+      "sp_def": 102,
+      "spd": 115
+    },
+    "catch_rate": 30
+  },
+  {
+    "name": "ChaosBlackWarGreymon X",
+    "stage": "Mega",
+    "attribute": "Virus",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "description": "ChaosBlackWarGreymon enhanced with the X-Antibody.",
+    "id": 1016,
+    "digivolves_to": [],
+    "digivolves_from": [],
+    "moves": [
+      {
+        "learn_level": 1,
+        "move_id": "dark_spore"
+      },
+      {
+        "learn_level": 20,
+        "move_id": "spore_cloud"
+      },
+      {
+        "learn_level": 40,
+        "move_id": "chaos_flare"
+      },
+      {
+        "learn_level": 55,
+        "move_id": "terra_destroyer"
+      }
+    ],
+    "base_stats": {
+      "hp": 124,
+      "atk": 131,
+      "def": 118,
+      "sp_atk": 136,
+      "sp_def": 115,
+      "spd": 138
+    },
+    "catch_rate": 30
   }
 ]
