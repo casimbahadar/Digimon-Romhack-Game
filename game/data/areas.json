@@ -3,21 +3,70 @@
     "id": "file_city",
     "name": "File City",
     "description": "The bustling hub city of the Digital World. All roads begin and end here. Tamers from every corner of the Digital World pass through its gates.",
-    "wild_encounters": [],
+    "wild_encounters": [
+      {
+        "species_id": 700,
+        "min_level": 3,
+        "max_level": 10,
+        "weight": 10
+      },
+      {
+        "species_id": 819,
+        "min_level": 3,
+        "max_level": 10,
+        "weight": 10
+      },
+      {
+        "species_id": 7,
+        "min_level": 3,
+        "max_level": 10,
+        "weight": 10
+      },
+      {
+        "species_id": 902,
+        "min_level": 3,
+        "max_level": 10,
+        "weight": 10
+      },
+      {
+        "species_id": 41,
+        "min_level": 3,
+        "max_level": 10,
+        "weight": 10
+      },
+      {
+        "species_id": 33,
+        "min_level": 3,
+        "max_level": 10,
+        "weight": 10
+      }
+    ],
     "trainers": [
       {
         "name": "Tamer Marcus",
         "party": [
-          {"species_id": 21, "level": 5},
-          {"species_id": 22, "level": 5}
+          {
+            "species_id": 21,
+            "level": 5
+          },
+          {
+            "species_id": 22,
+            "level": 5
+          }
         ],
         "reward_money": 150
       },
       {
         "name": "Rookie Sora",
         "party": [
-          {"species_id": 23, "level": 6},
-          {"species_id": 24, "level": 6}
+          {
+            "species_id": 23,
+            "level": 6
+          },
+          {
+            "species_id": 24,
+            "level": 6
+          }
         ],
         "reward_money": 180
       }
@@ -37,296 +86,843 @@
     "name": "Gear Savanna",
     "description": "Wide-open plains filled with gear-shaped rocks and digital vegetation. Young Rookie Digimon roam freely here, making it the ideal starting ground for new Tamers.",
     "wild_encounters": [
-      {"species_id": 21, "min_level": 5, "max_level": 15, "weight": 25},
-      {"species_id": 22, "min_level": 5, "max_level": 12, "weight": 20},
-      {"species_id": 23, "min_level": 6, "max_level": 13, "weight": 18},
-      {"species_id": 24, "min_level": 5, "max_level": 12, "weight": 15},
-      {"species_id": 25, "min_level": 7, "max_level": 15, "weight": 12},
-      {"species_id": 26, "min_level": 6, "max_level": 14, "weight": 10},
-      {"species_id": 35, "min_level": 8, "max_level": 15, "weight": 8},
-      {"species_id": 27, "min_level": 5, "max_level": 13, "weight": 7}
+      {
+        "species_id": 709,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 298,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 279,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 863,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 584,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 244,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 688,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 329,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 37,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      },
+      {
+        "species_id": 36,
+        "min_level": 8,
+        "max_level": 18,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Tamer Joe",
         "party": [
-          {"species_id": 21, "level": 8},
-          {"species_id": 22, "level": 7}
+          {
+            "species_id": 21,
+            "level": 8
+          },
+          {
+            "species_id": 22,
+            "level": 7
+          }
         ],
         "reward_money": 200
       },
       {
         "name": "Scout Pita",
         "party": [
-          {"species_id": 23, "level": 10},
-          {"species_id": 24, "level": 9},
-          {"species_id": 25, "level": 10}
+          {
+            "species_id": 23,
+            "level": 10
+          },
+          {
+            "species_id": 24,
+            "level": 9
+          },
+          {
+            "species_id": 25,
+            "level": 10
+          }
         ],
         "reward_money": 280
       },
       {
         "name": "Wanderer Gus",
         "party": [
-          {"species_id": 26, "level": 12},
-          {"species_id": 27, "level": 11}
+          {
+            "species_id": 26,
+            "level": 12
+          },
+          {
+            "species_id": 27,
+            "level": 11
+          }
         ],
         "reward_money": 320
       }
     ],
-    "connections": ["file_city", "tropical_jungle", "ancient_dino_region"]
+    "connections": [
+      "file_city",
+      "tropical_jungle",
+      "ancient_dino_region"
+    ]
   },
   {
     "id": "tropical_jungle",
     "name": "Tropical Jungle",
     "description": "A dense, humid jungle teeming with plant-type and water-type Digimon. Ancient trees tower overhead, their roots woven through streams of digital data.",
     "wild_encounters": [
-      {"species_id": 24, "min_level": 12, "max_level": 20, "weight": 25},
-      {"species_id": 27, "min_level": 13, "max_level": 22, "weight": 22},
-      {"species_id": 26, "min_level": 12, "max_level": 19, "weight": 18},
-      {"species_id": 64, "min_level": 15, "max_level": 22, "weight": 15},
-      {"species_id": 67, "min_level": 14, "max_level": 22, "weight": 12},
-      {"species_id": 24, "min_level": 18, "max_level": 22, "weight": 10},
-      {"species_id": 27, "min_level": 16, "max_level": 22, "weight": 8}
+      {
+        "species_id": 274,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 698,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 714,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 517,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 696,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 34,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 641,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 654,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 927,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      },
+      {
+        "species_id": 804,
+        "min_level": 12,
+        "max_level": 22,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Jungle Tamer Yuki",
         "party": [
-          {"species_id": 24, "level": 15},
-          {"species_id": 26, "level": 14}
+          {
+            "species_id": 24,
+            "level": 15
+          },
+          {
+            "species_id": 26,
+            "level": 14
+          }
         ],
         "reward_money": 380
       },
       {
         "name": "Botanist Rena",
         "party": [
-          {"species_id": 64, "level": 18},
-          {"species_id": 27, "level": 17},
-          {"species_id": 67, "level": 18}
+          {
+            "species_id": 64,
+            "level": 18
+          },
+          {
+            "species_id": 27,
+            "level": 17
+          },
+          {
+            "species_id": 67,
+            "level": 18
+          }
         ],
         "reward_money": 480
       },
       {
         "name": "Swamp Lord Kael",
         "party": [
-          {"species_id": 67, "level": 21},
-          {"species_id": 64, "level": 20}
+          {
+            "species_id": 67,
+            "level": 21
+          },
+          {
+            "species_id": 64,
+            "level": 20
+          }
         ],
         "reward_money": 560
       }
     ],
-    "connections": ["file_city", "gear_savanna", "ancient_dino_region", "dark_cave"]
+    "connections": [
+      "file_city",
+      "gear_savanna",
+      "ancient_dino_region",
+      "dark_cave"
+    ]
   },
   {
     "id": "ancient_dino_region",
     "name": "Ancient Dino Region",
     "description": "A scorched badlands where volcanic vents spew digital fire and ancient dragon-type Digimon rule supreme. Fossils of long-forgotten Digimon lie buried in the cracked earth.",
     "wild_encounters": [
-      {"species_id": 21, "min_level": 18, "max_level": 26, "weight": 22},
-      {"species_id": 61, "min_level": 20, "max_level": 28, "weight": 20},
-      {"species_id": 84, "min_level": 18, "max_level": 27, "weight": 18},
-      {"species_id": 85, "min_level": 20, "max_level": 28, "weight": 16},
-      {"species_id": 61, "min_level": 22, "max_level": 28, "weight": 13},
-      {"species_id": 84, "min_level": 24, "max_level": 28, "weight": 10},
-      {"species_id": 85, "min_level": 23, "max_level": 28, "weight": 8},
-      {"species_id": 21, "min_level": 25, "max_level": 28, "weight": 6}
+      {
+        "species_id": 776,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 641,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 498,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 212,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 540,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 669,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 335,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 895,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 963,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      },
+      {
+        "species_id": 62,
+        "min_level": 18,
+        "max_level": 30,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Dino Tamer Rex",
         "party": [
-          {"species_id": 21, "level": 20},
-          {"species_id": 61, "level": 21}
+          {
+            "species_id": 21,
+            "level": 20
+          },
+          {
+            "species_id": 61,
+            "level": 21
+          }
         ],
         "reward_money": 520
       },
       {
         "name": "Flame Rider Kira",
         "party": [
-          {"species_id": 84, "level": 24},
-          {"species_id": 85, "level": 23},
-          {"species_id": 61, "level": 24}
+          {
+            "species_id": 84,
+            "level": 24
+          },
+          {
+            "species_id": 85,
+            "level": 23
+          },
+          {
+            "species_id": 61,
+            "level": 24
+          }
         ],
         "reward_money": 680
       },
       {
         "name": "Dragon King Voltan",
         "party": [
-          {"species_id": 85, "level": 27},
-          {"species_id": 84, "level": 26}
+          {
+            "species_id": 85,
+            "level": 27
+          },
+          {
+            "species_id": 84,
+            "level": 26
+          }
         ],
         "reward_money": 780
       }
     ],
-    "connections": ["file_city", "gear_savanna", "tropical_jungle", "factorial_town"]
+    "connections": [
+      "file_city",
+      "gear_savanna",
+      "tropical_jungle",
+      "factorial_town"
+    ]
   },
   {
     "id": "factorial_town",
     "name": "Factorial Town",
     "description": "An industrious city of towering factories and electric-powered machinery. Steel and electric Digimon inhabit the endless production lines and power grids humming throughout the town.",
     "wild_encounters": [
-      {"species_id": 25, "min_level": 22, "max_level": 33, "weight": 25},
-      {"species_id": 65, "min_level": 24, "max_level": 35, "weight": 22},
-      {"species_id": 105, "min_level": 25, "max_level": 35, "weight": 18},
-      {"species_id": 108, "min_level": 26, "max_level": 35, "weight": 15},
-      {"species_id": 106, "min_level": 22, "max_level": 34, "weight": 12},
-      {"species_id": 65, "min_level": 28, "max_level": 35, "weight": 9},
-      {"species_id": 25, "min_level": 30, "max_level": 35, "weight": 7}
+      {
+        "species_id": 788,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 898,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 387,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 670,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 915,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 757,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 644,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 375,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 517,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      },
+      {
+        "species_id": 808,
+        "min_level": 25,
+        "max_level": 38,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Engineer Theo",
         "party": [
-          {"species_id": 25, "level": 25},
-          {"species_id": 65, "level": 24}
+          {
+            "species_id": 25,
+            "level": 25
+          },
+          {
+            "species_id": 65,
+            "level": 24
+          }
         ],
         "reward_money": 680
       },
       {
         "name": "Factory Boss Nira",
         "party": [
-          {"species_id": 105, "level": 30},
-          {"species_id": 108, "level": 29},
-          {"species_id": 106, "level": 30}
+          {
+            "species_id": 105,
+            "level": 30
+          },
+          {
+            "species_id": 108,
+            "level": 29
+          },
+          {
+            "species_id": 106,
+            "level": 30
+          }
         ],
         "reward_money": 880
       },
       {
         "name": "Circuit Master Dov",
         "party": [
-          {"species_id": 108, "level": 34},
-          {"species_id": 105, "level": 33}
+          {
+            "species_id": 108,
+            "level": 34
+          },
+          {
+            "species_id": 105,
+            "level": 33
+          }
         ],
         "reward_money": 980
       }
     ],
-    "connections": ["file_city", "ancient_dino_region", "metal_factory"]
+    "connections": [
+      "file_city",
+      "ancient_dino_region",
+      "metal_factory"
+    ]
   },
   {
     "id": "metal_factory",
     "name": "Metal Factory",
     "description": "A massive, forbidding facility where Champion and Ultimate steel-type Digimon are born from raw data. Gears the size of houses turn endlessly in the smoke-filled corridors.",
     "wild_encounters": [
-      {"species_id": 105, "min_level": 30, "max_level": 40, "weight": 25},
-      {"species_id": 108, "min_level": 32, "max_level": 42, "weight": 22},
-      {"species_id": 121, "min_level": 33, "max_level": 42, "weight": 18},
-      {"species_id": 111, "min_level": 35, "max_level": 42, "weight": 15},
-      {"species_id": 108, "min_level": 36, "max_level": 42, "weight": 12},
-      {"species_id": 121, "min_level": 38, "max_level": 42, "weight": 9},
-      {"species_id": 105, "min_level": 38, "max_level": 42, "weight": 7}
+      {
+        "species_id": 748,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 208,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 108,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 829,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 110,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 786,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 949,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 767,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 442,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      },
+      {
+        "species_id": 606,
+        "min_level": 30,
+        "max_level": 42,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Foreman Ike",
         "party": [
-          {"species_id": 105, "level": 33},
-          {"species_id": 108, "level": 32}
+          {
+            "species_id": 105,
+            "level": 33
+          },
+          {
+            "species_id": 108,
+            "level": 32
+          }
         ],
         "reward_money": 960
       },
       {
         "name": "Steel Warden Lysa",
         "party": [
-          {"species_id": 121, "level": 38},
-          {"species_id": 111, "level": 37},
-          {"species_id": 108, "level": 38}
+          {
+            "species_id": 121,
+            "level": 38
+          },
+          {
+            "species_id": 111,
+            "level": 37
+          },
+          {
+            "species_id": 108,
+            "level": 38
+          }
         ],
         "reward_money": 1120
       },
       {
         "name": "Iron Overlord Gareth",
         "party": [
-          {"species_id": 111, "level": 41},
-          {"species_id": 121, "level": 40}
+          {
+            "species_id": 111,
+            "level": 41
+          },
+          {
+            "species_id": 121,
+            "level": 40
+          }
         ],
         "reward_money": 1280
       }
     ],
-    "connections": ["file_city", "factorial_town", "dark_cave", "infinity_mountain"]
+    "connections": [
+      "file_city",
+      "factorial_town",
+      "dark_cave",
+      "infinity_mountain"
+    ]
   },
   {
     "id": "dark_cave",
     "name": "Dark Cave",
     "description": "A pitch-black network of tunnels deep beneath the Digital World. Virus-attribute and dark-type Digimon lurk in the shadows, preying on any Tamer foolish enough to wander without a light.",
     "wild_encounters": [
-      {"species_id": 44, "min_level": 35, "max_level": 46, "weight": 25},
-      {"species_id": 71, "min_level": 36, "max_level": 48, "weight": 22},
-      {"species_id": 56, "min_level": 35, "max_level": 47, "weight": 18},
-      {"species_id": 96, "min_level": 37, "max_level": 48, "weight": 15},
-      {"species_id": 120, "min_level": 38, "max_level": 48, "weight": 12},
-      {"species_id": 71, "min_level": 42, "max_level": 48, "weight": 9},
-      {"species_id": 44, "min_level": 43, "max_level": 48, "weight": 7}
+      {
+        "species_id": 155,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 659,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 973,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 650,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 458,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 428,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 992,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 300,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 417,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      },
+      {
+        "species_id": 936,
+        "min_level": 38,
+        "max_level": 50,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Shadow Tamer Orla",
         "party": [
-          {"species_id": 44, "level": 37},
-          {"species_id": 71, "level": 36}
+          {
+            "species_id": 44,
+            "level": 37
+          },
+          {
+            "species_id": 71,
+            "level": 36
+          }
         ],
         "reward_money": 1080
       },
       {
         "name": "Virus Cultist Draven",
         "party": [
-          {"species_id": 56, "level": 42},
-          {"species_id": 96, "level": 41},
-          {"species_id": 120, "level": 42}
+          {
+            "species_id": 56,
+            "level": 42
+          },
+          {
+            "species_id": 96,
+            "level": 41
+          },
+          {
+            "species_id": 120,
+            "level": 42
+          }
         ],
         "reward_money": 1280
       },
       {
         "name": "Cave Lord Mortis",
         "party": [
-          {"species_id": 120, "level": 47},
-          {"species_id": 96, "level": 46}
+          {
+            "species_id": 120,
+            "level": 47
+          },
+          {
+            "species_id": 96,
+            "level": 46
+          }
         ],
         "reward_money": 1460
       }
     ],
-    "connections": ["file_city", "tropical_jungle", "metal_factory", "infinity_mountain"]
+    "connections": [
+      "file_city",
+      "tropical_jungle",
+      "metal_factory",
+      "infinity_mountain"
+    ]
   },
   {
     "id": "infinity_mountain",
     "name": "Infinity Mountain",
     "description": "A colossal mountain whose peak vanishes into the digital stratosphere. The most powerful Digimon in the world gather here, including legendary Mega-level beings whose very existence reshapes the surrounding data.",
     "wild_encounters": [
-      {"species_id": 111, "min_level": 45, "max_level": 55, "weight": 22},
-      {"species_id": 112, "min_level": 47, "max_level": 58, "weight": 18},
-      {"species_id": 113, "min_level": 48, "max_level": 58, "weight": 16},
-      {"species_id": 118, "min_level": 50, "max_level": 60, "weight": 14},
-      {"species_id": 119, "min_level": 50, "max_level": 60, "weight": 12},
-      {"species_id": 129, "min_level": 55, "max_level": 60, "weight": 8},
-      {"species_id": 112, "min_level": 53, "max_level": 60, "weight": 6},
-      {"species_id": 129, "min_level": 58, "max_level": 60, "weight": 4}
+      {
+        "species_id": 347,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 157,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 169,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 262,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 429,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 174,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 512,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 472,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 245,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      },
+      {
+        "species_id": 637,
+        "min_level": 45,
+        "max_level": 60,
+        "weight": 10
+      }
     ],
     "trainers": [
       {
         "name": "Mountain Sage Elara",
         "party": [
-          {"species_id": 111, "level": 48},
-          {"species_id": 112, "level": 47}
+          {
+            "species_id": 111,
+            "level": 48
+          },
+          {
+            "species_id": 112,
+            "level": 47
+          }
         ],
         "reward_money": 1560
       },
       {
         "name": "Peak Guardian Voss",
         "party": [
-          {"species_id": 113, "level": 54},
-          {"species_id": 118, "level": 53},
-          {"species_id": 119, "level": 54}
+          {
+            "species_id": 113,
+            "level": 54
+          },
+          {
+            "species_id": 118,
+            "level": 53
+          },
+          {
+            "species_id": 119,
+            "level": 54
+          }
         ],
         "reward_money": 1860
       },
       {
         "name": "Summit Champion Aiden",
         "party": [
-          {"species_id": 129, "level": 59},
-          {"species_id": 119, "level": 58}
+          {
+            "species_id": 129,
+            "level": 59
+          },
+          {
+            "species_id": 119,
+            "level": 58
+          }
         ],
         "reward_money": 2200
       }
     ],
-    "connections": ["file_city", "metal_factory", "dark_cave"]
+    "connections": [
+      "file_city",
+      "metal_factory",
+      "dark_cave"
+    ]
   }
 ]
