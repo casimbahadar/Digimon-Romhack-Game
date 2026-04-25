@@ -115,6 +115,41 @@ class Battle:
         elif effect == "raise_evasion":
             user.apply_stage_mod("evasion", 2)
             self.turn_log.append(f"{user.display_name}'s evasion rose sharply!")
+        elif effect == "raise_def":
+            user.apply_stage_mod("def", 2)
+            self.turn_log.append(f"{user.display_name}'s DEF rose sharply!")
+        elif effect == "raise_sp_def":
+            user.apply_stage_mod("sp_def", 2)
+            self.turn_log.append(f"{user.display_name}'s SP.DEF rose sharply!")
+        elif effect == "raise_all_stats":
+            for stat in ("atk", "def", "sp_atk", "sp_def", "spd"):
+                user.apply_stage_mod(stat, 1)
+            self.turn_log.append(f"{user.display_name}'s all stats rose!")
+        elif effect == "lower_opp_spd":
+            if random.random() < chance:
+                target.apply_stage_mod("spd", -1)
+                self.turn_log.append(f"{target.display_name}'s SPD fell!")
+        elif effect == "lower_opp_def":
+            if random.random() < chance:
+                target.apply_stage_mod("def", -1)
+                self.turn_log.append(f"{target.display_name}'s DEF fell!")
+        elif effect == "lower_opp_sp_def":
+            if random.random() < chance:
+                target.apply_stage_mod("sp_def", -1)
+                self.turn_log.append(f"{target.display_name}'s SP.DEF fell!")
+        elif effect == "lower_opp_accuracy":
+            if random.random() < chance:
+                target.apply_stage_mod("accuracy", -1)
+                self.turn_log.append(f"{target.display_name}'s accuracy fell!")
+        elif effect == "lower_sp_atk":
+            user.apply_stage_mod("sp_atk", -2)
+            self.turn_log.append(f"{user.display_name}'s SP.ATK fell sharply!")
+        elif effect == "flinch":
+            pass  # flinch handled in turn order logic
+        elif effect == "taunt":
+            self.turn_log.append(f"{target.display_name} is taunted!")
+        elif effect == "recharge":
+            self.turn_log.append(f"{user.display_name} must recharge!")
 
     # ------------------------------------------------------------------
     # Enemy AI
