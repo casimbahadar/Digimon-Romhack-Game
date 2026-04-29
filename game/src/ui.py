@@ -1,7 +1,8 @@
-# Pygame UI module — no sprite assets; everything is colored rectangles + text.
+# Pygame UI module — procedural sprites generated per Digimon type/stage.
 
 import pygame
 
+from .sprite_gen import get_sprite
 from .constants import (
     WHITE, BLACK, RED, BLUE, GREEN, YELLOW, ORANGE, PURPLE,
     DARK_GRAY, LIGHT_GRAY, SCREEN_BG, HP_GREEN, HP_YELLOW, HP_RED,
@@ -77,29 +78,50 @@ def draw_battle_background(screen) -> None:
                      (SCREEN_WIDTH, SCREEN_HEIGHT // 2 - 20), 2)
 
 
+def draw_digimon_sprite(screen, digimon, x: int, y: int, is_player: bool) -> None:
+    """Draw a procedurally generated sprite for a Digimon, centered at (x, y)."""
+    size = 128 if is_player else 108
+
+    # Get or generate the sprite (128x128 surface)
+    raw = get_sprite(
+        digimon.display_name,
+        getattr(digimon, "types", ["Normal"]),
+        getattr(digimon, "stage", "Rookie"),
+    )
+
+    # Scale to display size
+    scaled = pygame.transform.smoothscale(raw, (size, size))
+
+    # Player sprite faces right (flip horizontally)
+    if is_player:
+        scaled = pygame.transform.flip(scaled, True, False)
+
+    # Drop shadow
+    shadow = pygame.Surface((size, size // 5), pygame.SRCALPHA)
+    shadow.fill((0, 0, 0, 0))
+    pygame.draw.ellipse(shadow, (0, 0, 0, 60), shadow.get_rect())
+    screen.blit(shadow, (x - size // 2, y + size // 2 - size // 10))
+
+    # Blit sprite
+    screen.blit(scaled, (x - size // 2, y - size // 2))
+
+    # Name label below
+    font = pygame.font.Font(None, FONT_SMALL)
+    label = font.render(digimon.display_name, True, WHITE)
+    nr = label.get_rect(centerx=x, top=y + size // 2 + 4)
+    screen.blit(label, nr)
+
+
+# Keep old name as alias so any external callers don't break
 def draw_digimon_placeholder(screen, name: str, x: int, y: int,
                               is_player: bool, type_color) -> None:
-    """Draw a colored rectangle as a placeholder sprite with a name label."""
-    # Size: player sprite is slightly larger and in the foreground
     w, h = (90, 90) if is_player else (76, 76)
     rect = pygame.Rect(x - w // 2, y - h // 2, w, h)
-
-    # Body rectangle with type-colored fill
     pygame.draw.rect(screen, type_color, rect, border_radius=8)
     pygame.draw.rect(screen, WHITE, rect, 2, border_radius=8)
-
-    # Simple face dots
-    eye_y = rect.top + h // 3
-    left_eye_x = rect.left + w // 3
-    right_eye_x = rect.right - w // 3
-    pygame.draw.circle(screen, BLACK, (left_eye_x, eye_y), 5)
-    pygame.draw.circle(screen, BLACK, (right_eye_x, eye_y), 5)
-
-    # Name below the sprite
     font = pygame.font.Font(None, FONT_SMALL)
     img = font.render(name, True, WHITE)
-    nr = img.get_rect(centerx=x, top=rect.bottom + 4)
-    screen.blit(img, nr)
+    screen.blit(img, img.get_rect(centerx=x, top=rect.bottom + 4))
 
 
 def draw_hp_bar(screen, x: int, y: int, w: int,
@@ -282,19 +304,11 @@ def draw_battle_scene(screen, battle, selected_move: int,
     player_digi = battle.player_active
     enemy_digi = battle.enemy_active
 
-    # Determine primary type color for placeholder sprites
-    p_type = player_digi.types[0] if player_digi.types else "Normal"
-    e_type = enemy_digi.types[0] if enemy_digi.types else "Normal"
-    p_color = TYPE_COLORS.get(p_type, LIGHT_GRAY)
-    e_color = TYPE_COLORS.get(e_type, LIGHT_GRAY)
+    # Player sprite (bottom-left foreground) — procedural sprite
+    draw_digimon_sprite(screen, player_digi, 150, 310, True)
 
-    # Player sprite (bottom-left foreground)
-    draw_digimon_placeholder(screen, player_digi.display_name,
-                             150, 300, True, p_color)
-
-    # Enemy sprite (top-right background)
-    draw_digimon_placeholder(screen, enemy_digi.display_name,
-                             SCREEN_WIDTH - 180, 150, False, e_color)
+    # Enemy sprite (top-right background) — procedural sprite, slightly smaller
+    draw_digimon_sprite(screen, enemy_digi, SCREEN_WIDTH - 190, 145, False)
 
     draw_battle_hud(screen, player_digi, enemy_digi, fonts)
 
