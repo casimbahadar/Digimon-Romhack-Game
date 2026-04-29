@@ -16,8 +16,9 @@ A Pokemon-style Digimon fan game built in Python/Pygame, plus a ROM hack patch g
 8. [Items & Catching](#items--catching)
 9. [Progression & Saving](#progression--saving)
 10. [ROM Hack Patcher](#rom-hack-patcher)
-11. [Data Tools](#data-tools)
-12. [Wiki Coverage](#wiki-coverage)
+11. [Sprite Workflow (Spriters Resource)](#sprite-workflow-spriters-resource)
+12. [Data Tools](#data-tools)
+13. [Wiki Coverage](#wiki-coverage)
 13. [Requirements](#requirements)
 
 ---
@@ -109,7 +110,9 @@ The game runs a state machine with three screens:
 
 ### Rendering
 
-The game uses **no external sprite assets** — everything is drawn procedurally with Pygame shapes and text. Digimon are represented as colored rectangles with their name and type displayed. HP bars shift from green → yellow → red. Each of the 14 types has a unique accent color used throughout the UI.
+The game uses **procedural sprites** by default — each of the 14 types has a unique character silhouette drawn with Pygame shapes and scaled by Digivolution stage (Baby is small, Mega fills the frame). HP bars shift green → yellow → red. All 14 types have distinct accent colors throughout the UI.
+
+You can replace the procedural sprites with **real Spriters Resource sprites** by following the workflow in [Sprite Workflow](#sprite-workflow-spriters-resource) below.
 
 ---
 
@@ -481,6 +484,70 @@ Digimon types are mapped to FireRed's 17-type system:
 ### IPS Patch Format
 
 When run with `--patch-only`, the patcher produces an `.ips` file encoding only the changed bytes. You can apply this to your ROM with any standard IPS patcher (Lunar IPS, Flips, etc.).
+
+---
+
+## Sprite Workflow (Spriters Resource)
+
+Spriters Resource blocks bots with Cloudflare, so sprites must be downloaded manually. This is a two-step process: download sheets yourself, then run the extractor.
+
+### Step 1 — Download Sprite Sheets
+
+Visit these pages and download the PNG sprite sheets you want:
+
+| Site page | Contents | Notes |
+|-----------|----------|-------|
+| [Digimon Rumble Arena (PS1)](https://www.spriters-resource.com/playstation/digimonrumblearena/) | ~18 Digimon, full idle/attack animations | Best visual quality |
+| [Digimon Rumble Arena 2 (PS2)](https://www.spriters-resource.com/playstation2/digimonrumblearena2/) | ~30 Digimon | High quality |
+| [Digimon World (PS1)](https://www.spriters-resource.com/playstation/digimonworld/) | 100+ original Digimon battle sprites | Best coverage |
+| [Digimon Battle Spirit (GBA)](https://www.spriters-resource.com/game_boy_advance/digimonbattlespirit/) | Many Digimon | Pixel art style |
+| [Digimon Battle Spirit 2 (GBA)](https://www.spriters-resource.com/game_boy_advance/digimonbattlespirit2/) | More Digimon | Pixel art style |
+
+Save each downloaded PNG to `tools/sheets/<DigimonName>.png`:
+
+```
+tools/sheets/
+  Agumon.png
+  Gabumon.png
+  WarGreymon.png
+  ...
+```
+
+### Step 2 — Extract Sprites
+
+```bash
+# Process all sheets in tools/sheets/ at once
+python tools/extract_sprites.py
+
+# Process one sheet (use --index to pick a different frame)
+python tools/extract_sprites.py --sheet Agumon.png
+python tools/extract_sprites.py --sheet Agumon.png --index 2
+
+# Debug: see which frames were detected before extracting
+python tools/extract_sprites.py --sheet Agumon.png --show
+```
+
+The extractor detects non-transparent regions via flood fill, picks the largest sprite by default (index 0), centers it on a square canvas, and saves a 128×128 RGBA PNG to `game/assets/sprites/<name>.png`.
+
+### Step 3 — Fix Names (if needed)
+
+If your downloaded sheet was named `agumon_idle.png` but the game expects `agumon.png`:
+
+```bash
+# See which Digimon are still missing sprites
+python tools/map_sprites.py --missing
+
+# Rename a sprite file
+python tools/map_sprites.py --rename agumon_idle.png agumon.png
+
+# Auto-match all unmatched PNGs to database names using fuzzy matching
+python tools/map_sprites.py --match
+
+# Check coverage
+python tools/map_sprites.py --status
+```
+
+Once a PNG exists at `game/assets/sprites/<name>.png`, the game uses it automatically. The procedural generator only runs for Digimon without a cached sprite.
 
 ---
 
